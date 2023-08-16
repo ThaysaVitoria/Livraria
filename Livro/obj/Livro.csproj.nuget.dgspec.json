@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\source\\repos\\Livro\\Livro.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\Livraria\\Livro\\Livro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\source\\repos\\Livro\\Livro.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\Livraria\\Livro\\Livro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\Livro\\Livro.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Livraria\\Livro\\Livro.csproj",
         "projectName": "Livro",
-        "projectPath": "C:\\Users\\Aluno\\source\\repos\\Livro\\Livro.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\Livraria\\Livro\\Livro.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\source\\repos\\Livro\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\Livraria\\Livro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
